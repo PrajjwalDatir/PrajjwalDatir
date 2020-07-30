@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align = "center">
-  <img src = "https://websitesetup.org/wp-content/uploads/2019/01/Web-Developer.jpg" width="80">
+  <img src = "https://websitesetup.org/wp-content/uploads/2019/01/Web-Developer.jpg" width="200">
 </p>
 
 <br/><br/>
