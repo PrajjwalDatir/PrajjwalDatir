@@ -1,6 +1,6 @@
 <!-- Banner -->
-<p align = "center">
-  <img src = "https://websitesetup.org/wp-content/uploads/2019/01/Web-Developer.jpg" = 50x50>
+<p align = "center" width = "50px">
+  <img src = "https://websitesetup.org/wp-content/uploads/2019/01/Web-Developer.jpg">
 </p>
 
 <br/><br/>
@@ -10,7 +10,7 @@
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
     
-I am a strong T-shaped developer with a creative side and a passion for design, UX/UI. My mission is to build a connection between the product and the users as well as connecting developers and business.
+I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.
 
 <br/>
 
@@ -30,7 +30,7 @@ I am a strong T-shaped developer with a creative side and a passion for design, 
 
 </br>
 
-TL;TR:
+
 - :construction_worker: I’m currently studying in 3rd year of my CS Engineering graduation from COEP, India which is Asias 3rd oldest college built in 1857, yes you read that right! :microbe:
 - :mortar_board: I’m currently learning more about react.js, Django and Engineering :wink_face
 - 👯 I’m looking to collaborate on creative projects as a team-mate or as an intern.
