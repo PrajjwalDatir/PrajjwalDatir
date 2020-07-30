@@ -7,7 +7,7 @@
 
 <!-- About me -->
 <p align = "center">
-  <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg">
+<!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
     
 I am a strong T-shaped developer with a creative side and a passion for design, UX/UI. My mission is to build a connection between the product and the users as well as connecting developers and business.
