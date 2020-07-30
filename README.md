@@ -13,7 +13,13 @@
 I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.
 
 <br/>
+<!-- Stats Dashboard -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=dracula&line_height=40&bg_color=506487&title_color=F19FAC">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&hide_langs_below=12.5&theme=dracula&bg_color=506487&title_color=F19FAC">
+</p>
 
+<br><br/>
 :sunny: by day\
 • Working to be a full-stack web developer\
 • With experience in building real-life websites, and having strong communication skills\
@@ -37,12 +43,6 @@ I am a developer with a creative side and a passion for developing solutions to 
 
 
 </br></br>
-
-<!-- Stats Dashboard -->
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=dracula&line_height=40&bg_color=506487&title_color=F19FAC">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&hide_langs_below=12.5&theme=dracula&bg_color=506487&title_color=F19FAC">
-</p>
 
 
 <!--
