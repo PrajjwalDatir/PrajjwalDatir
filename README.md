@@ -16,7 +16,7 @@ I am a developer with a creative side and a passion for developing solutions to 
 <!-- Stats Dashboard -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=dracula&line_height=40&bg_color=506487&title_color=F19FAC">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&hide_langs_below=12.5&theme=dracula&bg_color=506487&title_color=F19FAC">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&hide_langs_below=12.5&theme=dracula&bg_color=e8b51c&title_color=3cc716">
 </p>
 
 <br><br/>
