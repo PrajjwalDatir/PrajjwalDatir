@@ -10,11 +10,11 @@
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
     
-I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.
+I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business. FOSS :green_heart: enthusiast.
 
 Fun fact:
 Favourite language: Python3 :snake:\
-Favourite OS: Manjaro :computer: (CATO - nickname by me)\
+Favourite OS: Manjaro :green_heart: :computer: (CATO - nickname by me)\
 <br/>
 <!-- Stats Dashboard -->
 <p align = "center">
@@ -40,9 +40,9 @@ Favourite OS: Manjaro :computer: (CATO - nickname by me)\
 </br>
 
 
-- :construction_worker: I’m currently studying in 3rd year of my CS Engineering graduation from COEP, India which is Asias 3rd oldest college built in 1857, yes you read that right! :microbe: :trollface:
-- :mortar_board: I’m currently learning more about react.js, Django and Engineering  :wink:
-- 👯 I’m looking to collaborate on creative projects as a team-mate or as an intern.
+ :construction_worker: I’m currently studying in 3rd year of my CS Engineering graduation from COEP, India which is Asias 3rd oldest college built in 1857, yes you read that right! :microbe: :trollface:
+ :mortar_board: I’m currently learning more about react.js, Django and Engineering  :wink:
+ 👯 I’m looking to collaborate on creative projects as a team-mate or as an intern.
 
 
 </br></br>
