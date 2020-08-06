@@ -32,10 +32,10 @@ Favourite OS: Manjaro :computer: (CATO - nickname by me)\
 :pushpin: Finds interaction between creativity, innovation and technology essential.
 
 :first_quarter_moon_with_face: by night\
-• Creative jack-of-all-trades with a strong interest in doing new things\
-• A Gamer who loves challenge and problems, moreover has an interest in problem solving\
-• Enjoys trying new linux OS and playing with it's variety of features\
-• Loves interacting with creative people and, consequently, loves traveling.
+:pushpin: Creative jack-of-all-trades with a strong interest in doing new things\
+:pushpin: A Gamer who loves challenge and problems, moreover has an interest in problem solving\
+:pushpin: Enjoys trying new linux OS and playing with it's variety of features\
+:pushpin: Loves interacting with creative people and, consequently, loves traveling.
 
 </br>
 
@@ -47,7 +47,7 @@ Favourite OS: Manjaro :computer: (CATO - nickname by me)\
 
 </br></br>
 :email: Email : prajjwal.coep@gmail.com \
-:copyright:@prajjwaldatir
+:copyright:prajjwaldatir
 <!--
 Here are some ideas to get you started:
 
