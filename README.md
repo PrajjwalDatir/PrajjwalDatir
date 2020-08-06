@@ -12,6 +12,9 @@
     
 I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.
 
+Fun fact:
+Favourite language: Python3 :snake:
+Favourite OS: Manjaro :computer: (CATO - nickname by me)
 <br/>
 <!-- Stats Dashboard -->
 <p align = "center">
