@@ -24,12 +24,12 @@ Favourite OS: Manjaro :computer: (CATO - nickname by me)\
 
 <br><br/>
 :sunny: by day\
-• Working to be a full-stack web developer\
-• With experience in building real-life websites, and having strong communication skills\
-• Rational thinker who takes decision based on logic and reasoning\
-• Agile: experience with Django, Bootstrap, Flask\
-• A strong interest in web and app development, using my technical background to bring added value to business processes\
-• Finds interaction between creativity, innovation and technology essential.
+:pushpin: Working to be a full-stack web developer\
+:pushpin: With experience in building real-life websites, and having strong communication skills\
+:pushpin: Rational thinker who takes decision based on logic and reasoning\
+:pushpin: Agile: experience with Django, Bootstrap, Flask\
+:pushpin: A strong interest in web and app development, using my technical background to bring added value to business processes\
+:pushpin: Finds interaction between creativity, innovation and technology essential.
 
 :first_quarter_moon_with_face: by night\
 • Creative jack-of-all-trades with a strong interest in doing new things\
@@ -46,8 +46,8 @@ Favourite OS: Manjaro :computer: (CATO - nickname by me)\
 
 
 </br></br>
-
-
+:email: Email : prajjwal.coep@gmail.com \
+:copyright:@prajjwaldatir
 <!--
 Here are some ideas to get you started:
 
