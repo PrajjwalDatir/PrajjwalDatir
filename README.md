@@ -43,7 +43,7 @@ Fun fact:\
 
  :construction_worker: I’m currently studying in 3rd year of my CS Engineering graduation from COEP, India which is Asias 3rd oldest college built in 1857, yes you read that right! :microbe: :trollface:
  :mortar_board: I’m currently learning more about react.js, Django and Engineering  :wink:
- 👯 I’m looking to collaborate on creative projects as a team-mate or as an intern.
+  I’m looking to collaborate on creative projects as a team-mate or as an intern.
 
 
 </br></br>
