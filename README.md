@@ -10,7 +10,7 @@
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
     
-I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.\ 
+I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.\
 || A FOSS :green_heart: enthusiast ||
 
 Fun fact:
