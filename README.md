@@ -1,4 +1,5 @@
 <!-- Banner -->
+<!-- Made using https://github.com/anuraghazra/github-readme-stats -->
 <p align = "center">
   <img src = "https://websitesetup.org/wp-content/uploads/2019/01/Web-Developer.jpg" width="250">
 </p>
@@ -19,8 +20,10 @@ Fun fact:\
 <br/>
 <!-- Stats Dashboard -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=dracula&line_height=40&bg_color=080e4f&title_color=F49F1C">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&hide_langs_below=12.5&theme=dracula&bg_color=080e4f&title_color=F49F1C">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+  <!-- *bg_color=080e4f&title_color=F49F1C -->
+  <!-- &bg_color=080e4f&title_color=F49F1C -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&hide_langs_below=2.5&theme=radical&title_color=red&include_all_commits=true&count_private=true">
 </p>
 
 <br><br/>
@@ -49,6 +52,12 @@ Fun fact:\
 </br></br>
 :email: Email : prajjwal.coep@gmail.com \
 :copyright:prajjwaldatir
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=coronastrike&show_owner=true)](https://github.com/prajjwaldatir/coronastrike)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=PaintPyQT5&show_owner=true)](https://github.com/prajjwaldatir/PaintPyQT5)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=basicSudoku&show_owner=true)](https://github.com/prajjwaldatir/basicSudoku)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=A.V.E.WhatsApp-bot&show_owner=true)](https://github.com/PrajjwalDatir/A.V.E.WhatsApp-bot)
+
 <!--
 Here are some ideas to get you started:
 
