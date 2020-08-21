@@ -3,7 +3,7 @@
 <p align = "center">
   <img src = "https://websitesetup.org/wp-content/uploads/2019/01/Web-Developer.jpg" width="250">
 </p>
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <br/><br/>
 
 <!-- About me -->
