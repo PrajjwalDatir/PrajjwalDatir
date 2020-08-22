@@ -15,7 +15,7 @@ I am a developer with a creative side and a passion for developing solutions to 
 
 Fun fact:\
 :pushpin: Favourite language: Python3 :snake:\
-:pushpin: Favourite OS: Manjaro :green_heart: :computer: (CATO - nickname by me)\
+:pushpin: Favourite OS: Manjaro :green_heart: :computer: \
 <br/>
 <!-- Stats Dashboard -->
 <p align = "center">
