@@ -28,7 +28,9 @@ Fun fact:\
 <br><br/>
 :sunny: by day\
 :pushpin: Working to be a full-stack web developer\
+<!--
 :pushpin: With experience in building real-life websites, and having strong communication skills\
+-->
 :pushpin: Rational thinker who takes decision based on logic and reasoning\
 :pushpin: Agile: experience with Django, Bootstrap, Flask\
 :pushpin: A strong interest in web and app development, using my technical background to bring added value to business processes\
@@ -37,7 +39,7 @@ Fun fact:\
 :first_quarter_moon_with_face: by night\
 :pushpin: Creative jack-of-all-trades with a strong interest in doing new things\
 :pushpin: A Gamer who loves challenge and problems, moreover has an interest in problem solving\
-:pushpin: Enjoys trying new linux OS and playing with it's variety of features\
+:pushpin: Enjoys trying new linux distros and playing with it's variety of features\
 :pushpin: Loves interacting with creative people and, consequently, loves traveling.
 
 </br>
