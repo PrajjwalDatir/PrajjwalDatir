@@ -53,12 +53,12 @@ Fun fact:\
 
 </br></br>
 :email: Email : prajjwal.coep@gmail.com \
-:copyright:prajjwaldatir
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=coronastrike&show_owner=true)](https://github.com/prajjwaldatir/coronastrike)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=PaintPyQT5&show_owner=true)](https://github.com/prajjwaldatir/PaintPyQT5)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=basicSudoku&show_owner=true)](https://github.com/prajjwaldatir/basicSudoku)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=A.V.E.WhatsApp-bot&show_owner=true)](https://github.com/PrajjwalDatir/A.V.E.WhatsApp-bot)
-
+</br></br>
+:copyright:prajjwaldatir
 <!--
 Here are some ideas to get you started:
 
