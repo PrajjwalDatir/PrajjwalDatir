@@ -49,11 +49,10 @@ Fun fact:\
  :mortar_board: I’m currently learning more about react.js, Django and Engineering  :wink:
   I’m looking to collaborate on creative projects as a team-mate or as an intern.
 
-
+[My Resume](https://docs.google.com/document/d/1hYHxBIc0yhy__fDR7qFMF7wjKBiT75yVZZ6sdoJGX-Y/edit)
 </br></br>
 :email: Email : prajjwal.coep@gmail.com \
 :copyright:prajjwaldatir
-[My Resume](https://docs.google.com/document/d/1hYHxBIc0yhy__fDR7qFMF7wjKBiT75yVZZ6sdoJGX-Y/edit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=coronastrike&show_owner=true)](https://github.com/prajjwaldatir/coronastrike)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=PaintPyQT5&show_owner=true)](https://github.com/prajjwaldatir/PaintPyQT5)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=basicSudoku&show_owner=true)](https://github.com/prajjwaldatir/basicSudoku)
