@@ -17,7 +17,7 @@ Fun fact:\
 :pushpin: Favourite language: Python3 :snake:\
 :pushpin: Favourite OS: Manjaro :green_heart: :computer: \
 <br/>
-[My Resume](https://docs.google.com/document/d/1hYHxBIc0yhy__fDR7qFMF7wjKBiT75yVZZ6sdoJGX-Y/edit)
+<!--[My Resume](https://docs.google.com/document/d/1hYHxBIc0yhy__fDR7qFMF7wjKBiT75yVZZ6sdoJGX-Y/edit) -->
 <!-- Stats Dashboard -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
