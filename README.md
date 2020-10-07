@@ -33,7 +33,7 @@ Fun fact:\
 :pushpin: With experience in building real-life websites, and having strong communication skills\
 -->
 :pushpin: Rational thinker who takes decision based on logic and reasoning\
-:pushpin: Agile: experience with Django, Bootstrap, Flask\
+:pushpin: Agile: experience with Node, Django, Bootstrap, Flask\
 :pushpin: A strong interest in web and app development, using my technical background to bring added value to business processes\
 :pushpin: Finds interaction between creativity, innovation and technology essential.
 
