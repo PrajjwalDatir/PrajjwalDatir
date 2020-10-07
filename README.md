@@ -29,9 +29,6 @@ Fun fact:\
 <br><br/>
 :sunny: by day\
 :pushpin: Working to be a full-stack web developer\
-<!--
-:pushpin: With experience in building real-life websites, and having strong communication skills\
--->
 :pushpin: Rational thinker who takes decision based on logic and reasoning\
 :pushpin: Agile: experience with Node, Django, Bootstrap, Flask\
 :pushpin: A strong interest in web and app development, using my technical background to bring added value to business processes\
