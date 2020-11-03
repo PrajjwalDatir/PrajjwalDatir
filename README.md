@@ -21,9 +21,7 @@
 I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.\
 || A FOSS :green_heart: enthusiast ||
 
-Fun fact:\
-:pushpin: Favourite language: Python3 :snake:\
-:pushpin: Favourite OS: Manjaro :green_heart: :computer: \
+
 <br/>
 <!--[My Resume](https://docs.google.com/document/d/1hYHxBIc0yhy__fDR7qFMF7wjKBiT75yVZZ6sdoJGX-Y/edit) -->
 <!-- Stats Dashboard -->
