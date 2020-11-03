@@ -9,7 +9,15 @@
 <p align = "center">
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
+
+
+</a> <a href="https://www.linkedin.com/in/prajjwal-datir-coep">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>![](https://visitor-badge.glitch.me/badge?page_id=prajjwaldatir.MyGithub)  
+</a> ![](https://prajjwaldatir.github.io)
+<br/>
     
+
 I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.\
 || A FOSS :green_heart: enthusiast ||
 
