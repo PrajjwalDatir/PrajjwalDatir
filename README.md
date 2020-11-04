@@ -49,7 +49,7 @@ I am a developer with a creative side and a passion for developing solutions to 
 </br>
 
 
- :construction_worker: I’m currently studying in 3rd year of my CS Engineering graduation from COEP, India which is Asias 3rd oldest college which was built in 1857, yes you read it right! :microbe: :trollface:
+ :construction_worker: I’m currently studying in 3rd year of my CS Engineering graduation from COEP, India which is Asias 3rd oldest college which was built in 1857, yes you read it right! :microbe:
  :mortar_board: I’m currently learning more about MERN stack, Competitive Programming, DSA and Engineering  :wink:
   I’m looking to collaborate on creative projects as a team-mate or as an intern.
 
