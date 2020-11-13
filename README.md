@@ -15,6 +15,10 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>![](https://visitor-badge.glitch.me/badge?page_id=prajjwaldatir.MyGithub)  
 </a> ![](https://prajjwaldatir.github.io)
+  <a class="header-badge" target="_blank" href="https://twitter.com/datir_prajjwal">
+  <img alt="Follow" src="https://img.shields.io/twitter/follow/datir_prajjwal?style=social">
+  </a>
+
 <br/>
     
 
