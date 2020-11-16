@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- About me -->
-<!-- Source: https://shields.io/ -->>
+<!-- Source: https://shields.io/ -->
 <p align = "center">
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
