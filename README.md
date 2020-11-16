@@ -10,12 +10,16 @@
 <p align = "center">
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
 </p>
-
-
 </a> 
+
+
 <a href="https://www.linkedin.com/in/prajjwal-datir-coep">
-  <img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<br/>
+
+<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
 
 <a class="header-badge" target="_blank" href="https://twitter.com/datir_prajjwal">
   <img alt="Follow" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
@@ -25,14 +29,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=prajjwaldatir.MyGithub)  
 </a>
 
+
+
 ![](https://prajjwaldatir.github.io)
+
+
 
 <a class="header-badge" target="_blank" href="https://twitter.com/datir_prajjwal">
   <img alt="Follow" src="https://img.shields.io/twitter/follow/datir_prajjwal?style=social">
 </a>
 
+
 <br/>
-    
+<br/>    
 
 I am a developer with a creative side and a passion for developing solutions to important problems. My mission is to build a connection between the product and the users as well as connecting developers and business.\
 || A FOSS :green_heart: enthusiast ||
