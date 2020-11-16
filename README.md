@@ -9,12 +9,12 @@
 <!-- Source: https://shields.io/ -->
 <p align = "center">
 <!--   <img src = "https://blog.vilmatech.com/wp-content/uploads/2019/01/Python-and-Django.jpg"> -->
-</p>
-</a> 
-
-
-<a href="https://www.linkedin.com/in/prajjwal-datir-coep">
+<a align= "center" href="https://www.linkedin.com/in/prajjwal-datir-coep">
 </a>
+
+</p>
+<!-- </a>  -->
+
 
 <br/>
 
