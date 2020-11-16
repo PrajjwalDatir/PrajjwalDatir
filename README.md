@@ -77,7 +77,7 @@ I am a developer with a creative side and a passion for developing solutions to 
 :email: Email : prajjwal.coep@gmail.com \
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=coronastrike&show_owner=true)](https://github.com/prajjwaldatir/coronastrike)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=Competitive-Coding-Manjaro&show_owner=true)](https://github.com/prajjwaldatir/Competitive-Coding-Manjaro)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=HTTP-webserver-CN&show_owner=true)](https://github.com/prajjwaldatir/HTTP-webserver-CN)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=HTTP-webserver-CN&show_owner=true)](https://github.com/PrajjwalDatir/HTTP-Prajjwal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=WebsiteTemplates&show_owner=true)](https://github.com/PrajjwalDatir/WebsiteTemplates)
 </br></br>
 :copyright:prajjwaldatir
