@@ -55,6 +55,8 @@ I’m looking to collaborate on creative projects as a team-mate or as an intern
 
 ### <img src="./assets/manCoding.png" width="30px"> **Tech I like**
 
+<p align="left">
+
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -81,6 +83,7 @@ I’m looking to collaborate on creative projects as a team-mate or as an intern
 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
+</p>
 
 ### <img src="./assets/manCoding.png" width="30px"> **Tech I have used excluding above**
 
