@@ -12,7 +12,6 @@
 </a>
 
 
-
 <!-- <a  -->
 <!-- href="https://www.linkedin.com/in/prajjwal-datir-coep"> -->
 <!-- <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
