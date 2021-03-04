@@ -54,7 +54,7 @@
 :mortar_board: I’m currently learning more about MERN stack, Competitive Programming, DSA and Engineering :wink:
 I’m looking to collaborate on creative projects as a team-mate or as an intern. -->
 
-### <img src="./assets/manCoding.png" width="30px"> **Tech I like**
+### <img src="./assets/manCoding.png" width="30px"> **Tech I've Used**
 
 <p align="left">
 
@@ -85,8 +85,6 @@ I’m looking to collaborate on creative projects as a team-mate or as an intern
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
-
-### <img src="./assets/manCoding.png" width="30px"> **Tech I have used excluding above**
 
 <p align="left">
 
