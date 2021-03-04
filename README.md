@@ -1,7 +1,7 @@
 <!-- Source: https://shields.io/ -->
 
 
-# HELLO Prajjwal from Siddhika
+# HELLO WORLD
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Wassup? <img src="./assets/wave.gif" width="30px">
