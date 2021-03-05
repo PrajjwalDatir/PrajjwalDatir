@@ -1,7 +1,7 @@
 <!-- Source: https://shields.io/ -->
 
 
-# HELLO WORLD
+# Bye WORLD
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Wassup? <img src="./assets/wave.gif" width="30px">
