@@ -54,6 +54,7 @@
 :mortar_board: I’m currently learning more about MERN stack, Competitive Programming, DSA and Engineering :wink:
 I’m looking to collaborate on creative projects as a team-mate or as an intern. -->
 
+<!--
 ### <img src="./assets/manCoding.png" width="30px"> **Tech I've Used**
 
 <p align="center">
@@ -191,7 +192,7 @@ I’m looking to collaborate on creative projects as a team-mate or as an intern
 
 </br></br>
 :email: Email : prajjwal.coep@gmail.com 
-
+-->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=coronastrike&show_owner=true)](https://github.com/prajjwaldatir/coronastrike)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=Competitive-Coding-Manjaro&show_owner=true)](https://github.com/prajjwaldatir/Competitive-Coding-Manjaro)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prajjwaldatir&repo=HTTP-Prajjwal&show_owner=true)](https://github.com/PrajjwalDatir/HTTP-Prajjwal)
