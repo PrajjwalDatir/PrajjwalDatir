@@ -26,12 +26,15 @@
 
 ### Maybe, I am a Developer. 
 
->Don't keep `await`ing for the `promise`, [Keep Moving Forward](https://youtu.be/TAC-SJWgKd0)
+Don't keep `await`ing for the `promise`, instead [Keep Moving Forward](https://youtu.be/TAC-SJWgKd0)
 
 <br/>
 <!-- Stats Dashboard -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+  
+<img src="https://media1.tenor.com/images/187db3ca5780423b0a72f2867f6e6695/tenor.gif?itemid=19615678" width="300">
+ 
   <!-- *bg_color=080e4f&title_color=F49F1C -->
   <!-- &bg_color=080e4f&title_color=F49F1C -->
 </p>
