@@ -24,11 +24,9 @@
 <!-- ![](https://prajjwaldatir.github.io) -->
 
 
-### I am a Developer.
-- Code
-- Anime
-- Open Source
-- Technology
+### Maybe, I am a Developer. 
+
+>Don't keep `await`ing for the `promise`, [Keep Moving Forward](https://youtu.be/TAC-SJWgKd0)
 
 <br/>
 <!-- Stats Dashboard -->
