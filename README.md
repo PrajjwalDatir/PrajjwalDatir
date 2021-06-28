@@ -14,7 +14,6 @@
 ### 📖 Currently reading [Promise Neverland Manga](https://promisedneverland.com/manga-en/the-promised-neverland-chapter-1/)
 
 ## 👾 Literally My All Projects :
-- [Blog Website](https://datir.netlify.app/)
 - [Implemented Scheduling Algorithms in XV6 Operating System](https://github.com/PrajjwalDatir/xv6-scheduling)
 - [CO-convo-EP Chatting WebApp made by MERN stack + Material UI + Socket.io](https://github.com/PrajjwalDatir/CO-convo-EP) : [Github](https://github.com/PrajjwalDatir/CO-convo-EP), [GitLab](https://gitlab.com/prajjwaldatir/CO-convo-EP)
 - [HTTP protocol as per RFC Implemented from scratch! : Python3 Socket Programming](https://github.com/PrajjwalDatir/HTTP-Prajjwal)
@@ -28,6 +27,7 @@
 - [ExamBeep Backend Using Flask](https://github.com/PrajjwalDatir/Exam_Beep_Backend)
 - [ExamBeep Frontend Using React](https://github.com/PrajjwalDatir/Exam_Beep_Frontend)
 - [Contributer at Xre WhatsApp Bot](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre)
+- [Blog Website](https://datir.netlify.app/)
 - [Github Themed Portfolio Website](https://prajjwaldatir.github.io/PersonalWebsite/)
 - [Portfolio Website (Made in 2020 aka outdated)](https://prajjwal.netlify.app/)
 - [AgniDEV : Freelancing Website](https://prajjwaldatir.github.io/AgniDEV/)
