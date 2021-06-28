@@ -13,10 +13,34 @@
 
 ### 📖 Currently reading [Promise Neverland Manga](https://promisedneverland.com/manga-en/the-promised-neverland-chapter-1/)
 
-<a href="https://dev.to/prajjwaldatir"> 
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prajjwal Datir's DEV Profile" height="30" width="30">
-</a>
-
+## 👾 Literally My All Projects :
+- [Blog Website](https://datir.netlify.app/)
+- [CO-convo-EP Chatting WebApp made by MERN stack + Material UI + Socket.io](https://github.com/PrajjwalDatir/CO-convo-EP) : [Github](https://github.com/PrajjwalDatir/CO-convo-EP), [GitLab](https://gitlab.com/prajjwaldatir/CO-convo-EP)
+- [HTTP protocol as per RFC Implemented from `scratch`! : Python3 Socket Programming](https://github.com/PrajjwalDatir/HTTP-Prajjwal)
+- [Terminal Based Corona Strike Game : Pygame2, Python3](https://github.com/PrajjwalDatir/CoronaStrike)
+- [WhatsApp Bot Made Using Baileys & Typescript](https://github.com/PrajjwalDatir/Kaoi)
+- [Maintainer of WhatsApp Bot Made Using Baileys & Typescript](https://github.com/PrajjwalDatir/Whatsapp-Botto-Void)
+- [Live COVID19 FaceMask Detector ](https://github.com/PrajjwalDatir/Live-COVID19-Face-Mask-detector)
+- [My `Drop` Poem Website Made Using ThreeJS](https://three-js-prajjwal.vercel.app/) : [Github](https://github.com/PrajjwalDatir/threeJS-PoemDrop)
+- [Chain Reaction Game : C language](https://github.com/PrajjwalDatir/Chain-Reaction-Game)
+- [My Github Profile](https://github.com/PrajjwalDatir/PrajjwalDatir)
+- [ExamBeep Backend Using Flask](https://github.com/PrajjwalDatir/Exam_Beep_Backend)
+- [ExamBeep Frontend Using React](https://github.com/PrajjwalDatir/Exam_Beep_Frontend)
+- [Contributer at Xre WhatsApp Bot](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre)
+- [Github Themed Portfolio Website](https://prajjwaldatir.github.io/PersonalWebsite/)
+- [Portfolio Website (Made in 2020 aka outdated)](https://prajjwal.netlify.app/)
+- [AgniDEV : Freelancing Website](https://prajjwaldatir.github.io/AgniDEV/)
+- [Real Time Online Primary School Management : LAMP stack](https://github.com/PrajjwalDatir/Primary-School-Management-System)
+- [WhatsApp Bot : Twilio, Python3](https://github.com/PrajjwalDatir/A.V.E.WhatsApp-bot)
+- [HacktoberFest Website Templates Repo Maintained : Me](https://github.com/PrajjwalDatir/WebsiteTemplates)
+- [Useless NPM package : Me](https://github.com/PrajjwalDatir/NPM-releases-by-me)
+- [Terminal Based Sudoku Game : Python3](https://github.com/PrajjwalDatir/basicSudoku)
+- [Paint App : PyQT5, Python3](https://github.com/PrajjwalDatir/PaintPyQT5)
+- [Google Search Parameters Handling - Hardward CS50 WebDev Project](https://prajjwaldatir.github.io/Harvard-Projects/)
+- [Another Useless Portfolio Website : HTML, CSS, JS](https://github.com/PrajjwalDatir/project0)
+- [Competitive Coding Hackathon Codebases](https://github.com/PrajjwalDatir/Hackathon2020)
+- [Card Flashing Website : Flask, Python3](https://github.com/PrajjwalDatir/WebApp)
+- [RoadMap of CS : Me](https://github.com/PrajjwalDatir/RoadMap-to-Mastery)
 
 <!-- Stats Dashboard -->
 <p align = "center">
