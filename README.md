@@ -13,6 +13,9 @@
 
 ### 📖 Currently reading [Promise Neverland Manga](https://promisedneverland.com/manga-en/the-promised-neverland-chapter-1/)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prajjwaldatir)](https://github.com/PrajjwalDatir/PrajjwalDatir)
+
+
 ## 👾 Literally My All Projects :
 1. [Implemented Scheduling Algorithms in XV6 Operating System](https://github.com/PrajjwalDatir/xv6-scheduling)
 2. [CO-convo-EP Chatting WebApp made by MERN stack + Material UI + Socket.io](https://github.com/PrajjwalDatir/CO-convo-EP) : [Github](https://github.com/PrajjwalDatir/CO-convo-EP), [GitLab](https://gitlab.com/prajjwaldatir/CO-convo-EP)
