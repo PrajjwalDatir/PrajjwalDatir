@@ -13,7 +13,7 @@
 
 ### 📖 Currently reading [Promise Neverland Manga](https://promisedneverland.com/manga-en/the-promised-neverland-chapter-1/)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prajjwaldatir)](https://github.com/PrajjwalDatir/PrajjwalDatir)
+[![PrajjwalDatir](https://next-github-tau.vercel.app/api/card?username=PrajjwalDatir)](https://github.com/prajjwaldatir)
 
 
 ## 👾 Literally My All Projects :
