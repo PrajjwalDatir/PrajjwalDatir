@@ -7,7 +7,7 @@
 - [Kaoi](https://github.com/PrajjwalDatir/Kaoi)
 - [Void](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Void) 
 
-### 💻 Currently I'm an intern at [Persistent Systems](https://www.persistent.com/)
+### 💻 Currently I'm an intern at [Persistent Systems](https://www.persistent.com/) & Working on Proprietary Project, 👀 I can't mention.
 
 ### 🚀 Currently I'm learning Java, Computer Science & Backend Development
 
