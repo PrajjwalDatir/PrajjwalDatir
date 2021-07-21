@@ -15,37 +15,6 @@
 
 [![PrajjwalDatir](https://next-github-tau.vercel.app/api/card?username=PrajjwalDatir)](https://github.com/prajjwaldatir)
 
-
-## 👾 Literally My All Projects :
-1. [Implemented Scheduling Algorithms in XV6 Operating System](https://github.com/PrajjwalDatir/xv6-scheduling)
-2. [CO-convo-EP Chatting WebApp made by MERN stack + Material UI + Socket.io](https://github.com/PrajjwalDatir/CO-convo-EP) : [Github](https://github.com/PrajjwalDatir/CO-convo-EP), [GitLab](https://gitlab.com/prajjwaldatir/CO-convo-EP)
-3. [HTTP protocol as per RFC Implemented from scratch! : Python3 Socket Programming](https://github.com/PrajjwalDatir/HTTP-Prajjwal)
-4. [Terminal Based Corona Strike Game : Pygame2, Python3](https://github.com/PrajjwalDatir/CoronaStrike)
-5. [WhatsApp Bot Made Using Baileys & Typescript](https://github.com/PrajjwalDatir/Kaoi)
-6. [Maintainer of WhatsApp Bot Made Using Baileys & Typescript](https://github.com/PrajjwalDatir/Whatsapp-Botto-Void)
-7. [Live COVID19 FaceMask Detector ](https://github.com/PrajjwalDatir/Live-COVID19-Face-Mask-detector)
-8. [My Poem named "DROP" hosted on Website : ThreeJS, Javascript](https://three-js-prajjwal.vercel.app/) : [Github](https://github.com/PrajjwalDatir/threeJS-PoemDrop)
-9. [Chain Reaction Game : C language](https://github.com/PrajjwalDatir/Chain-Reaction-Game)
-10. [My Github Profile](https://github.com/PrajjwalDatir/PrajjwalDatir)
-11. [ExamBeep Backend Using Flask](https://github.com/PrajjwalDatir/Exam_Beep_Backend)
-12. [ExamBeep Frontend Using React](https://github.com/PrajjwalDatir/Exam_Beep_Frontend)
-13. [Contributer at Xre WhatsApp Bot](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre)
-14. [Blog Website](https://datir.netlify.app/)
-15. [Github Themed Portfolio Website](https://prajjwaldatir.github.io/PersonalWebsite/)
-16. [Portfolio Website (Made in 2020 aka outdated)](https://prajjwal.netlify.app/)
-17. [AgniDEV : Freelancing Website](https://prajjwaldatir.github.io/AgniDEV/)
-18. [Real Time Online Primary School Management : LAMP stack](https://github.com/PrajjwalDatir/Primary-School-Management-System)
-19. [WhatsApp Bot : Twilio, Python3](https://github.com/PrajjwalDatir/A.V.E.WhatsApp-bot)
-22. [Terminal Based Sudoku Game : Python3](https://github.com/PrajjwalDatir/basicSudoku)
-23. [Paint App : PyQT5, Python3](https://github.com/PrajjwalDatir/PaintPyQT5)
-24. [Google Search Parameters Handling - Hardward CS50 WebDev Project](https://prajjwaldatir.github.io/Harvard-Projects/)
-
-
-- [HacktoberFest Website Templates Repo Maintained : Me](https://github.com/PrajjwalDatir/WebsiteTemplates)
-- [Competitive Coding Hackathon Codebases](https://github.com/PrajjwalDatir/Hackathon2020)
-- [RoadMap of CS : Me](https://github.com/PrajjwalDatir/RoadMap-to-Mastery)
-- [Chess-Node via Collaboration with](https://github.com/AlenSaito1/chess-node) @[AlenSaito1](https://github.com/AlenSaito1)
-
 <!-- Stats Dashboard -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
