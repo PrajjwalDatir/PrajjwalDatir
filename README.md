@@ -1,5 +1,7 @@
 # HELLO WORLD
-<img src="https://media1.tenor.com/images/51e99cb402bc25786d4862f4bbc4135f/tenor.gif?itemid=19733803" width="600">
+<!-- <img src="https://media1.tenor.com/images/51e99cb402bc25786d4862f4bbc4135f/tenor.gif?itemid=19733803" width="600"> -->
+
+![](https://c.tenor.com/6HQtZxz-ALcAAAAC/tokyo-ghoul-kaneki.gif)
 
 ## Wassup? <img src="./assets/wave.gif" width="30px">
 
@@ -7,11 +9,11 @@
 - [Kaoi](https://github.com/PrajjwalDatir/Kaoi)
 - [Void](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Void) 
 
-### 💻 Currently I'm an intern at [Persistent Systems](https://www.persistent.com/) & Working on Proprietary Project, 👀 I can't mention.
+### 💻 I did my internship at [Persistent Systems](https://www.persistent.com/) & Currently Looking For Full-Time Roles with June-2022 Joining 
 
-### 🚀 Currently I'm learning Java, Computer Science & Backend Development
+### 🚀 Currently I'm learning Typescript, Python3, Java, Computer Science & Backend Development
 
-### 📖 Currently reading [Promise Neverland Manga](https://promisedneverland.com/manga-en/the-promised-neverland-chapter-1/)
+### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/)
 
 <!-- Stats Dashboard -->
 <p align = "center">
