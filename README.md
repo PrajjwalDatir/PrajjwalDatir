@@ -7,8 +7,7 @@
 
 ### 🤖 Currently I'm working on WhatsApp Bots using [Typescript](https://github.com/Microsoft/TypeScript) & [Baileys](https://github.com/adiwajshing/Baileys)
 - [Kaoi](https://github.com/PrajjwalDatir/Kaoi)
-- [Void](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Void) 
-
+- 
 ### 💻 I did my internship at [Persistent Systems](https://www.persistent.com/) & Currently Looking For Full-Time Roles with June-2022 Joining 
 
 ### 🚀 Currently I'm learning Typescript, Python3, Java, Computer Science & Backend Development
@@ -60,6 +59,15 @@
 </p>
 
 </br></br>
-Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{Prajjwaldatir}/count.svg)
+<!-- Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{Prajjwaldatir}/count.svg) -->
+
+<p align="center">
+  
+  <img src="https://profile-counter.glitch.me/{Prajjwaldatir}/count.svg"/>
+<br>
+ <br>
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajjwalDatir&theme=monokai-metallian)](https://git.io/streak-stats) -->
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=PrajjwalDatir&theme=monokai-metallian"/>
+</p>
 
 :copyright: prajjwaldatir
