@@ -5,12 +5,13 @@
 
 ## Wassup? <img src="./assets/wave.gif" width="30px">
 
-### 🤖 Currently I'm working on WhatsApp Bots using [Typescript](https://github.com/Microsoft/TypeScript) & [Baileys](https://github.com/adiwajshing/Baileys)
+### 🤖 Currently I'm working on WhatsApp Bots using [Typescript](https://github.com/Microsoft/TypeScript) & [Baileys](https://github.com/adiwajshing/Baileys).
 - [Kaoi](https://github.com/PrajjwalDatir/Kaoi)
-- 
-### 💻 I did my internship at [Persistent Systems](https://www.persistent.com/) & Currently Looking For Full-Time Roles with June-2022 Joining 
+- Infinity Bot : Closed Source
 
-### 🚀 Currently I'm learning Typescript, Python3, Java, Computer Science & Backend Development
+### 💻 I completed 2-month Internship @[Persistent Systems](https://www.persistent.com/) & Actively Looking For Full-Time SDE Role with June-2022 Joining Date.
+
+### 🚀 Currently I'm learning Python3, Java, Typescript, Computer Science & Backend Development.
 
 ### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/)
 
