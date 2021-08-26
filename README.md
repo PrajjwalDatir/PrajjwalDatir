@@ -13,11 +13,15 @@
 - [Kaoi](https://github.com/PrajjwalDatir/Kaoi)
 - Infinity Bot : Closed Source
 
-### 💻 I completed 2-month Internship @[Persistent Systems](https://www.persistent.com/) & Actively Looking For Full-Time SDE Role with June-2022 Joining Date.
+### 💻 Internship @[Persistent Systems](https://www.persistent.com/) June2021-Aug2021
 
-### 🚀 Currently I'm learning Python3, Java, Typescript, Computer Science & Backend Development.
+### 💻 Future SDE @WillBeRevealedSoon
 
-### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/)
+### 🚀 Computer Science 2022 Graduate @[COEP](https://www.coep.org.in/) .
+
+### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/) & [GOH](https://www.webtoons.com/en/action/the-god-of-high-school/ep-427/viewer?title_no=66&episode_no=1)
+
+### 🦡 Currently watching Online Lectures...
 
 <!-- Stats Dashboard -->
 <p align = "center">
