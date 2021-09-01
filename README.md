@@ -175,7 +175,7 @@
 </p>
 
 <div align="center">
-  <img src="https://wakatime.com/share/@Datir/969f7ce0-93a1-4bfb-aea6-28a025f60444.svg" alt="Coding Activity of Last 7 days" width="40%" height="40%">
+<!--   <img src="https://wakatime.com/share/@Datir/969f7ce0-93a1-4bfb-aea6-28a025f60444.svg" alt="Coding Activity of Last 7 days" width="40%" height="40%"> -->
   <img src="https://wakatime.com/share/@Datir/f6305339-a93e-424a-8006-d18f687afca9.svg" alt="Languages I used Past 7 days" width="40%" height="40%">
  </div>
 
