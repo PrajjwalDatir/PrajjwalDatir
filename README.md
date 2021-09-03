@@ -15,7 +15,7 @@
 
 ### 💻 Internship @[Persistent Systems](https://www.persistent.com/) June2021-Aug2021
 
-### 💻 Future SDE @WillBeRevealedSoon
+### 💻 Future SDE @[Persistent Systems](https://www.persistent.com/) June2022 Onwards...
 
 ### 🚀 Computer Science 2022 Graduate @[COEP](https://www.coep.org.in/) .
 
