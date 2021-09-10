@@ -9,19 +9,19 @@
 
 ## Wassup? <img src="./assets/wave.gif" width="30px">
 
-### 🤖 Currently I'm working on WhatsApp Bots using [Typescript](https://github.com/Microsoft/TypeScript) & [Baileys](https://github.com/adiwajshing/Baileys).
+### 🤖 WhatsApp Automation Project aka Bot I'm part of :
 - [Kaoi](https://github.com/PrajjwalDatir/Kaoi)
 - Infinity Bot : Closed Source
 
-### 💻 Internship @[Persistent Systems](https://www.persistent.com/) June2021-Aug2021
+### 💻 SDE @[Persistent Systems](https://www.persistent.com/)
 
-### 💻 SDE @[Persistent Systems](https://www.persistent.com/) '22
+### 💻 Internship @[Persistent Systems](https://www.persistent.com/) June2021-Aug2021
 
 ### 🚀 Computer Science 2022 Graduate @[COEP](https://www.coep.org.in/) .
 
 ### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/) & [GOH](https://www.webtoons.com/en/action/the-god-of-high-school/ep-427/viewer?title_no=66&episode_no=1)
 
-### 🦡 Currently watching Online Lectures...
+### 🦡 Currently Learning [TS](https://www.typescriptlang.org), [NestJS](https://nestjs.com/) & [Life](https://youtu.be/xvFZjo5PgG0)...
 
 <!-- Stats Dashboard -->
 <p align = "center">
