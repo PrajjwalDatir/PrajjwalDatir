@@ -19,7 +19,7 @@
 
 ### 🚀 Computer Science 2022 Graduate @[COEP](https://www.coep.org.in/) .
 
-### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/) & [GOH](https://www.webtoons.com/en/action/the-god-of-high-school/ep-427/viewer?title_no=66&episode_no=1)
+<!-- ### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/) & [GOH](https://www.webtoons.com/en/action/the-god-of-high-school/ep-427/viewer?title_no=66&episode_no=1) -->
 
 ### 🦡 Currently Learning [TS](https://www.typescriptlang.org), [NestJS](https://nestjs.com/) & [Life](https://youtu.be/xvFZjo5PgG0)...
 
@@ -153,7 +153,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>Animas Gaming : PUBG Mobile Gaming (Closed)</h2>
 </div>
 <div align="center">
@@ -161,8 +161,8 @@
   [![Animas Gaming : PUBG Mobile Gaming (Closed)](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClJ_l3C9d60ytNvgy6pTjsA)
 
 </div>
-  
-</br></br>
+   -->
+<!-- </br></br> -->
 <!-- Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{Prajjwaldatir}/count.svg) -->
 
 <p align="center">
