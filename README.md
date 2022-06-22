@@ -21,7 +21,7 @@
 
 <!-- ### 📖 Currently reading [Tokyo Ghoul Manga](https://tokyo-ghoul-new.com/manga/tokyo-ghoul-vol-1-chapter-1-tragedy/) & [GOH](https://www.webtoons.com/en/action/the-god-of-high-school/ep-427/viewer?title_no=66&episode_no=1) -->
 
-### 🦡 Currently Learning [TS](https://www.typescriptlang.org), [NextJS](https://nextjs.org/), [NestJS](https://nestjs.com/) & [Life](https://youtu.be/xvFZjo5PgG0)...
+### 🦡 Currently Learning [Rust](https://www.rust-lang.org/), [NextJS](https://nextjs.org/), & [Life](https://youtu.be/xvFZjo5PgG0)...
 
 <!-- Stats Dashboard -->
 <p align = "center">
