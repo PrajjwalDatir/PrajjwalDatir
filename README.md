@@ -13,7 +13,6 @@ Here are a few things about me:
 <!-- You can also place the manCoding.png here if you like: -->
 <!-- <img src="./assets/manCoding.png" alt="Coding" width="200"/> -->
 
-<!-- Add your social media links here. Use services like Shields.io (https://shields.io/) or Simple Icons (https://simpleicons.org/) to generate badges. -->
 [![LinkedIn](https://badgen.net/badge/LinkedIn/datir/0077B5?icon=linkedin&label)](https://www.linkedin.com/in/datir/)
 [![Twitter](https://badgen.net/badge/Twitter/prajjwal_datir/1DA1F2?icon=twitter&label)](https://twitter.com/prajjwal_datir/)
 [![Portfolio](https://badgen.net/badge/Portfolio/prajj.in/blue?icon=website&label)](https://prajj.in)
@@ -22,23 +21,29 @@ Here are a few things about me:
 
 <!-- GitHub Stats -->
 [![PrajjwalDatir's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajjwalDatir&show_icons=true&theme=radical)](https://github.com/PrajjwalDatir)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalDatir&layout=compact&theme=radical)](https://github.com/PrajjwalDatir)
 
+
 ## 🛠️ My Skills
-<!-- List your skills here. Use services like Skillicons (https://skillicons.dev/) or Shields.io with Devicon (https://shields.io/) -->
 ![My Skills](https://skillicons.dev/icons?i=java,ts,py,nextjs,nodejs,mysql,mongodb&theme=light)
+
 **Conceptual & Business Skills:** Tech, Strategy, System Architecture, Business knowledge
+
 <!-- Add your actual skills by modifying the 'i=' parameter in the URL above, or add more badges! Check https://skillicons.dev for a list of available icons. -->
 <!-- Example using Shields.io: ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+
 
 ## 📝 Latest Blog Posts
 <!-- This section can be dynamically updated using a GitHub Action to fetch posts from your blog's RSS feed. -->
 <!-- Example script logic: Fetch and parse RSS feed from https://blog.prajj.in/feed/ (or similar URL). -->
 <!-- Format: - [Post Title](Post URL) -->
 
+
 ## 🌱 Currently Learning
 
 I'm currently focused on and exploring:
+
 - AI, Tech, Startups & Geopolitics
 - Customer retention strategies using data & modern tech stacks (Next.js, Python, Node.js, etc.)
 
@@ -56,5 +61,4 @@ Ensure your repository settings allow workflows to write to the repository if yo
 -->
 
 <!-- Footer -->
-<!-- You can add a footer here, e.g., "Last updated: (date)" or a quote. -->
 <!-- Made with ❤️ and GitHub -->
