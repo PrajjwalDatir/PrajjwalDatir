@@ -2,13 +2,13 @@
 <!-- ![Banner](./assets/manCoding.png) -->
 
 ## 👋 About Me
-![Waving Hand](./assets/wave.gif)
-I'm a developer focused on product projects and run a 0 to 1 agency that empowers Non-Technical Founders to Launch without sacrificing equity or technical expertise. My goal is to create blueprints for systems that drive human evolution, fueled by a quest for cosmic wonder and inner peace. 💼🎶👨‍💻
+
+I'm a developer focused on product projects and run a 0 to 1 agency that empowers Non-Technical Founders to Launch without sacrificing equity or technical expertise.
 
 Here are a few things about me:
 - 📍 I'm based in Nashik.
 - 🤝 Connect with me on GitHub! [![GitHub followers](https://img.shields.io/github/followers/PrajjwalDatir?style=social)](https://github.com/PrajjwalDatir)
-- 🏢 I'm associated with [@Paper-Trip](https://github.com/Paper-Trip).
+- 🏢 I run [@Paper-Trip](https://github.com/Paper-Trip).
 
 <!-- You can also place the manCoding.png here if you like: -->
 <!-- <img src="./assets/manCoding.png" alt="Coding" width="200"/> -->
@@ -35,6 +35,8 @@ Here are a few things about me:
 
 
 ## 📝 Latest Blog Posts
+
+![image](https://github.com/user-attachments/assets/b7d89f0e-207a-4ce1-bd1b-fd7968f8a9c8)
 <!-- This section can be dynamically updated using a GitHub Action to fetch posts from your blog's RSS feed. -->
 <!-- Example script logic: Fetch and parse RSS feed from https://blog.prajj.in/feed/ (or similar URL). -->
 <!-- Format: - [Post Title](Post URL) -->
