@@ -1,5 +1,4 @@
-I'm also actively involved in the startup space. 🚀
-
+i introduced myself here https://prajj.in/
 <!-- Fun Element: GitHub Snake or Joke -->
 ![github contribution snake](dist/github-snake.svg)
 
